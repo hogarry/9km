@@ -32,7 +32,7 @@ DIY目的：`5212m4浪潮硬盘笼`很适合做个家用的扩展柜，因此想
 
 # 手册下载
 
-<a href="./5212m4_diy_case_setup.pdf">5212m4安装手册</a>
+<a href="./docs/diy_party/5212_case_box/5212m4_diy_case_setup.pdf">5212m4安装手册</a>
 
 
 # 直连方案
