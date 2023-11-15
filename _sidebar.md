@@ -1,4 +1,4 @@
-* [山长水阔九千米 9KM.CN](/)
+
 * 开源贡献
     * [command line parser for modern C++](./docs/clips/readme.md)
     * [基于`C++11`的命令行解析器](./docs/clips/readme-zh.md)
