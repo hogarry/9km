@@ -6,5 +6,4 @@
     * [P1PC](./docs/clips/readme.md)
     * [P1SC](./docs/clips/readme-zh.md)
 * DIY乐园
-    * [自制5212m4硬盘笼外壳](./docs/diy_party/5212_case_box/5212m4_diy_case_setup.md)
     * [5212m4硬盘笼外壳安装手册](./docs/diy_party/5212_case_box/readme.md)
