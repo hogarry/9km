@@ -11,7 +11,7 @@ QQ群：<b style="color:#3ec1d3">172662614</b>   (暂时没时间打理，目前
 
 拓竹模型站分享地址:
 
-<https://makerworld.com/zh/u/342442682>
+<https://makerworld.com/zh/@9KM.CN>
 
 # NAS存储交流
 
