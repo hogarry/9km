@@ -19,6 +19,6 @@ QQ群：<b style="color:#3ec1d3">245754554</b>   (暂时没时间打理，目前
 
 DIY扩展柜安装手册链接：
 
-[自制5212m4硬盘笼外壳](./docs/diy_party/5212_case_box/5212m4_diy_case_setup.pdf)
+[自制5212m4硬盘笼外壳](https://github.com/9km-cn/diy_docs/releases/download/0.1/5212m4_diy_case_setup.pdf)
 
 
