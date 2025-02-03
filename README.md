@@ -30,3 +30,8 @@ DIY扩展柜安装手册链接：
 点击链接直接打开
 
 ![闲鱼](./docs/imgs/xian_yu_9km.cn.jpg)
+
+
+# B站
+
+【山长水阔九千米9KM-CN的个人空间-哔哩哔哩】 https://b23.tv/fhA0Uo5
