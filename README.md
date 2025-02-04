@@ -24,14 +24,13 @@ DIY扩展柜安装手册链接：
 [自制5212m4硬盘笼外壳](https://github.com/9km-cn/diy_docs/releases/download/0.1/5212m4_diy_case_setup.pdf)
 
 
+# B站
+
+【山长水阔九千米9KM-CN的个人空间-哔哩哔哩】 https://b23.tv/fhA0Uo5
+
 # 闲鱼
 
 【闲鱼】https://m.tb.cn/h.gJm9zoN?tk=XgMV37k1dba HU0854 「这是我的闲鱼号，快来看看吧～」
 点击链接直接打开
 
 ![闲鱼](./docs/imgs/xian_yu_9km.cn.jpg)
-
-
-# B站
-
-【山长水阔九千米9KM-CN的个人空间-哔哩哔哩】 https://b23.tv/fhA0Uo5
