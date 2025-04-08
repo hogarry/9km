@@ -30,7 +30,6 @@ DIY扩展柜安装手册链接：
 
 # 闲鱼
 
-【闲鱼】https://m.tb.cn/h.gJm9zoN?tk=XgMV37k1dba HU0854 「这是我的闲鱼号，快来看看吧～」
-点击链接直接打开
+【闲鱼】<https://www.goofish.com/personal?spm=a21ybx.item.itemHeader.1.699c3da690rbxt&userId=282785>
 
 ![闲鱼](./docs/imgs/xian_yu_9km.cn.jpg)
